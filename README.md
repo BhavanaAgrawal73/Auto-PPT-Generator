@@ -1,5 +1,5 @@
 
-# 📊 Gyaan Deck – Auto-Generate a Presentation from Text
+# 📊 Auto PPT Generator -  Auto-Generate a Presentation from Text
 
 **Your Text, Your Style – Turn bulk text or markdown into a polished PowerPoint presentation.**
 
@@ -25,8 +25,8 @@ Gyaan Deck is a lightweight web app that lets anyone paste long-form text (markd
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/23f1000805/tds-bonus-project-Auto-PPT-Generator-GyaanSetu-Deck.git
-cd tds-bonus-project-Auto-PPT-Generator-GyaanSetu-Deck
+git clone https://github.com/BhavanaAgrawal73/Auto-PPT-Generator.git
+cd Auto-PPT-Generator
 ```
 
 ### 2. Install dependencies
@@ -92,3 +92,4 @@ This app works out-of-the-box on cloud platforms. Just connect your repo and dep
 ## 📄 License
 
 MIT License – free to use, modify, and share.
+
