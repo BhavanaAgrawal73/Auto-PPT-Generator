@@ -3,7 +3,7 @@
 
 **Your Text, Your Style – Turn bulk text or markdown into a polished PowerPoint presentation.**
 
-Gyaan Deck is a lightweight web app that lets anyone paste long-form text (markdown, prose, notes, reports) and instantly convert it into a styled, ready-to-present PowerPoint deck. Simply upload your own template, add optional guidance, and supply your preferred LLM API key — the app will handle the rest.
+Auto PPT Generator is a lightweight web app that lets anyone paste long-form text (markdown, prose, notes, reports) and instantly convert it into a styled, ready-to-present PowerPoint deck. Simply upload your own template, add optional guidance, and supply your preferred LLM API key — the app will handle the rest.
 
 ---
 
@@ -92,4 +92,5 @@ This app works out-of-the-box on cloud platforms. Just connect your repo and dep
 ## 📄 License
 
 MIT License – free to use, modify, and share.
+
 
